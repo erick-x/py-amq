@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ALLDBMSINFOS>
+	<DBMSInfo>
+		<m_iMajorVersion>5</m_iMajorVersion>
+		<m_iMinVersion>0</m_iMinVersion>
+		<m_szDBMSName>mysql</m_szDBMSName>
+		<m_szDBMSConnectionInfo>10.143.84.52</m_szDBMSConnectionInfo>
+		<m_szDBMSCurDatabaseName>roledb_appstore_s10</m_szDBMSCurDatabaseName>
+		<m_szDBMSUser>root</m_szDBMSUser>
+		<m_szDBMSPassword>vij7mZgxkS</m_szDBMSPassword>
+	</DBMSInfo>
+</ALLDBMSINFOS>
+

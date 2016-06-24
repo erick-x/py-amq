@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ALLAMQMSINFOS>
+	<AMQMSInfo>
+		<m_szMSPort>61613</m_szMSPort>
+		<m_szMSConnectionInfo>127.0.0.1</m_szMSConnectionInfo>
+		<m_szMSDestination>/topic/test</m_szMSDestination>
+		<m_szMSUser>admin</m_szMSUser>
+		<m_szMSPassword>admin</m_szMSPassword>
+	</AMQMSInfo>
+	
+	<AMQMSInfo>
+		<m_szMSPort>61613</m_szMSPort>
+		<m_szMSConnectionInfo>127.0.0.1</m_szMSConnectionInfo>
+		<m_szMSDestination>/topic/test</m_szMSDestination>
+		<m_szMSUser>admin</m_szMSUser>
+		<m_szMSPassword>admin</m_szMSPassword>
+	</AMQMSInfo>
+	
+</ALLAMQMSINFOS>
+
